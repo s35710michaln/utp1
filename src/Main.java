@@ -1,6 +1,6 @@
 //todo: missing class
 
-//ok i will add adder and s35757 will add substractor
+//ok i will add adder and s35737 will add substractor
 
 public class Main {
     public static void main(String[] args){
