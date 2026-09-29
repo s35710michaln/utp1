@@ -1,5 +1,7 @@
 //todo: missing class
 
+//ok i will add adder
+
 public class Main {
     public static void main(String[] args){
         Adder adder = new Adder();
